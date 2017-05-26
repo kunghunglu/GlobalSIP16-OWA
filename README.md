@@ -18,16 +18,16 @@ If you find Ordered Weighted Averagin Layer useful in your research, please cons
 
 Performance comparison of different algorithms on AVA dataset. The table shows the accuracy(%) of standard testing set.
 
-     Method    |  AVA Dataset(%)
----------------|--------------
-Murry et al.   |      68.0
-SCNN           |      71.2
-AVG-SCNN       |      69.9
-DCNN           |      73.3
-RDCNN          |      74.5
-AlexNet        |      72.3
-DMA-Net-ImgFu  |      75.4
-**Ours**           |      **78.6**
+|     Method    |  AVA Dataset(%)|
+|---------------|----------------|
+|Murry et al.   |      68.0      |
+|SCNN           |      71.2      |
+|AVG-SCNN       |      69.9      |
+|DCNN           |      73.3      |
+|RDCNN          |      74.5      |
+|AlexNet        |      72.3      |
+|DMA-Net-ImgFu  |      75.4      |
+|**Ours**       |    **78.6**    |
 
 ## Installation
 
