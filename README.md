@@ -50,7 +50,7 @@ example :
 	  top: "aggregation"
 
 	  ordered_weighted_param {
-	  	OrderOp: DEX              // Sorted in ascending order or descending order
+	    OrderOp: DEX              // Sorted in ascending order or descending order
 	    positive: true            // Force weights to be positive
 	    axis: 1                   // The axis to aggregate
 	    weight_filler {           
